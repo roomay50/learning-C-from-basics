@@ -9,7 +9,7 @@ I am learning C chapter by chapter using the book **C How to Program**. The goal
 ### C How to Program
 
 * [x] Chapter 1 — Introduction to Computers, the Internet and the Web
-* [ ] Chapter 2
+* [x] Chapter 2
 * [ ] Chapter 3
 * [ ] Chapter 4
 * [ ] Chapter 5
