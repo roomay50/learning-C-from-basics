@@ -10,7 +10,7 @@ I am learning C chapter by chapter using the book **C How to Program**. The goal
 
 * [x] Chapter 1 — Introduction to Computers, the Internet and the Web
 * [x] Chapter 2
-* [ ] Chapter 3
+* [x] Chapter 3
 * [ ] Chapter 4
 * [ ] Chapter 5
 * [ ] Chapter 6
